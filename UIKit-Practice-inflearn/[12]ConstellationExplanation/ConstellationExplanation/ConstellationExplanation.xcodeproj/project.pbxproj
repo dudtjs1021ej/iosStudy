@@ -1,0 +1,400 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA6124A926CD414200DF9AF7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6124A826CD414200DF9AF7 /* AppDelegate.swift */; };
+		FA6124AB26CD414200DF9AF7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6124AA26CD414200DF9AF7 /* SceneDelegate.swift */; };
+		FA6124AD26CD414200DF9AF7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6124AC26CD414200DF9AF7 /* ViewController.swift */; };
+		FA6124B026CD414200DF9AF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6124AE26CD414200DF9AF7 /* Main.storyboard */; };
+		FA6124B226CD414300DF9AF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA6124B126CD414300DF9AF7 /* Assets.xcassets */; };
+		FA6124B526CD414300DF9AF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6124B326CD414300DF9AF7 /* LaunchScreen.storyboard */; };
+		FA6124CA26CD415D00DF9AF7 /* rabbit.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124BE26CD415D00DF9AF7 /* rabbit.png */; };
+		FA6124CB26CD415D00DF9AF7 /* bear.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124BF26CD415D00DF9AF7 /* bear.png */; };
+		FA6124CC26CD415D00DF9AF7 /* horse.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C026CD415D00DF9AF7 /* horse.png */; };
+		FA6124CD26CD415D00DF9AF7 /* horsestar.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C126CD415D00DF9AF7 /* horsestar.png */; };
+		FA6124CE26CD415D00DF9AF7 /* bearstar.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C226CD415D00DF9AF7 /* bearstar.png */; };
+		FA6124CF26CD415D00DF9AF7 /* eaglestar.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C326CD415D00DF9AF7 /* eaglestar.png */; };
+		FA6124D026CD415D00DF9AF7 /* rabbitstar.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C426CD415D00DF9AF7 /* rabbitstar.png */; };
+		FA6124D126CD415D00DF9AF7 /* dogstar.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C526CD415D00DF9AF7 /* dogstar.png */; };
+		FA6124D226CD415D00DF9AF7 /* aurora.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C626CD415D00DF9AF7 /* aurora.jpeg */; };
+		FA6124D326CD415D00DF9AF7 /* constellation.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C726CD415D00DF9AF7 /* constellation.jpeg */; };
+		FA6124D426CD415D00DF9AF7 /* dog.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C826CD415D00DF9AF7 /* dog.png */; };
+		FA6124D526CD415D00DF9AF7 /* eagle.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6124C926CD415D00DF9AF7 /* eagle.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FA6124A526CD414200DF9AF7 /* ConstellationExplanation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConstellationExplanation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA6124A826CD414200DF9AF7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FA6124AA26CD414200DF9AF7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FA6124AC26CD414200DF9AF7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FA6124AF26CD414200DF9AF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA6124B126CD414300DF9AF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA6124B426CD414300DF9AF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FA6124B626CD414300DF9AF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA6124BE26CD415D00DF9AF7 /* rabbit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rabbit.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/rabbit.png"; sourceTree = "<group>"; };
+		FA6124BF26CD415D00DF9AF7 /* bear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bear.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/bear.png"; sourceTree = "<group>"; };
+		FA6124C026CD415D00DF9AF7 /* horse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = horse.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/horse.png"; sourceTree = "<group>"; };
+		FA6124C126CD415D00DF9AF7 /* horsestar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = horsestar.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/horsestar.png"; sourceTree = "<group>"; };
+		FA6124C226CD415D00DF9AF7 /* bearstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bearstar.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/bearstar.png"; sourceTree = "<group>"; };
+		FA6124C326CD415D00DF9AF7 /* eaglestar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = eaglestar.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/eaglestar.png"; sourceTree = "<group>"; };
+		FA6124C426CD415D00DF9AF7 /* rabbitstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rabbitstar.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/rabbitstar.png"; sourceTree = "<group>"; };
+		FA6124C526CD415D00DF9AF7 /* dogstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dogstar.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/dogstar.png"; sourceTree = "<group>"; };
+		FA6124C626CD415D00DF9AF7 /* aurora.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = aurora.jpeg; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/aurora.jpeg"; sourceTree = "<group>"; };
+		FA6124C726CD415D00DF9AF7 /* constellation.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = constellation.jpeg; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/constellation.jpeg"; sourceTree = "<group>"; };
+		FA6124C826CD415D00DF9AF7 /* dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dog.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/dog.png"; sourceTree = "<group>"; };
+		FA6124C926CD415D00DF9AF7 /* eagle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = eagle.png; path = "../../../../../../../Downloads/강의자료-아이폰 iOS 개발/ConstellationExplanation/ConstellationExplanation/Resource/eagle.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FA6124A226CD414200DF9AF7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FA61249C26CD414200DF9AF7 = {
+			isa = PBXGroup;
+			children = (
+				FA6124A726CD414200DF9AF7 /* ConstellationExplanation */,
+				FA6124A626CD414200DF9AF7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FA6124A626CD414200DF9AF7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FA6124A526CD414200DF9AF7 /* ConstellationExplanation.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA6124A726CD414200DF9AF7 /* ConstellationExplanation */ = {
+			isa = PBXGroup;
+			children = (
+				FA6124BD26CD415100DF9AF7 /* Resource */,
+				FA6124A826CD414200DF9AF7 /* AppDelegate.swift */,
+				FA6124AA26CD414200DF9AF7 /* SceneDelegate.swift */,
+				FA6124AC26CD414200DF9AF7 /* ViewController.swift */,
+				FA6124AE26CD414200DF9AF7 /* Main.storyboard */,
+				FA6124B126CD414300DF9AF7 /* Assets.xcassets */,
+				FA6124B326CD414300DF9AF7 /* LaunchScreen.storyboard */,
+				FA6124B626CD414300DF9AF7 /* Info.plist */,
+			);
+			path = ConstellationExplanation;
+			sourceTree = "<group>";
+		};
+		FA6124BD26CD415100DF9AF7 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				FA6124C626CD415D00DF9AF7 /* aurora.jpeg */,
+				FA6124BF26CD415D00DF9AF7 /* bear.png */,
+				FA6124C226CD415D00DF9AF7 /* bearstar.png */,
+				FA6124C726CD415D00DF9AF7 /* constellation.jpeg */,
+				FA6124C826CD415D00DF9AF7 /* dog.png */,
+				FA6124C526CD415D00DF9AF7 /* dogstar.png */,
+				FA6124C926CD415D00DF9AF7 /* eagle.png */,
+				FA6124C326CD415D00DF9AF7 /* eaglestar.png */,
+				FA6124C026CD415D00DF9AF7 /* horse.png */,
+				FA6124C126CD415D00DF9AF7 /* horsestar.png */,
+				FA6124BE26CD415D00DF9AF7 /* rabbit.png */,
+				FA6124C426CD415D00DF9AF7 /* rabbitstar.png */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FA6124A426CD414200DF9AF7 /* ConstellationExplanation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA6124B926CD414300DF9AF7 /* Build configuration list for PBXNativeTarget "ConstellationExplanation" */;
+			buildPhases = (
+				FA6124A126CD414200DF9AF7 /* Sources */,
+				FA6124A226CD414200DF9AF7 /* Frameworks */,
+				FA6124A326CD414200DF9AF7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ConstellationExplanation;
+			productName = ConstellationExplanation;
+			productReference = FA6124A526CD414200DF9AF7 /* ConstellationExplanation.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FA61249D26CD414200DF9AF7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					FA6124A426CD414200DF9AF7 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = FA6124A026CD414200DF9AF7 /* Build configuration list for PBXProject "ConstellationExplanation" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FA61249C26CD414200DF9AF7;
+			productRefGroup = FA6124A626CD414200DF9AF7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FA6124A426CD414200DF9AF7 /* ConstellationExplanation */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FA6124A326CD414200DF9AF7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA6124D426CD415D00DF9AF7 /* dog.png in Resources */,
+				FA6124B526CD414300DF9AF7 /* LaunchScreen.storyboard in Resources */,
+				FA6124D526CD415D00DF9AF7 /* eagle.png in Resources */,
+				FA6124D326CD415D00DF9AF7 /* constellation.jpeg in Resources */,
+				FA6124D226CD415D00DF9AF7 /* aurora.jpeg in Resources */,
+				FA6124CC26CD415D00DF9AF7 /* horse.png in Resources */,
+				FA6124CD26CD415D00DF9AF7 /* horsestar.png in Resources */,
+				FA6124CE26CD415D00DF9AF7 /* bearstar.png in Resources */,
+				FA6124CB26CD415D00DF9AF7 /* bear.png in Resources */,
+				FA6124D026CD415D00DF9AF7 /* rabbitstar.png in Resources */,
+				FA6124CF26CD415D00DF9AF7 /* eaglestar.png in Resources */,
+				FA6124D126CD415D00DF9AF7 /* dogstar.png in Resources */,
+				FA6124CA26CD415D00DF9AF7 /* rabbit.png in Resources */,
+				FA6124B226CD414300DF9AF7 /* Assets.xcassets in Resources */,
+				FA6124B026CD414200DF9AF7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FA6124A126CD414200DF9AF7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA6124AD26CD414200DF9AF7 /* ViewController.swift in Sources */,
+				FA6124A926CD414200DF9AF7 /* AppDelegate.swift in Sources */,
+				FA6124AB26CD414200DF9AF7 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FA6124AE26CD414200DF9AF7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA6124AF26CD414200DF9AF7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FA6124B326CD414300DF9AF7 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA6124B426CD414300DF9AF7 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FA6124B726CD414300DF9AF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FA6124B826CD414300DF9AF7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA6124BA26CD414300DF9AF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = ConstellationExplanation/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = LimYoungSun.ConstellationExplanation;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FA6124BB26CD414300DF9AF7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = ConstellationExplanation/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = LimYoungSun.ConstellationExplanation;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA6124A026CD414200DF9AF7 /* Build configuration list for PBXProject "ConstellationExplanation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA6124B726CD414300DF9AF7 /* Debug */,
+				FA6124B826CD414300DF9AF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA6124B926CD414300DF9AF7 /* Build configuration list for PBXNativeTarget "ConstellationExplanation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA6124BA26CD414300DF9AF7 /* Debug */,
+				FA6124BB26CD414300DF9AF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FA61249D26CD414200DF9AF7 /* Project object */;
+}
