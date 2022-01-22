@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img_splash" translatesAutoresizingMaskIntoConstraints="NO" id="SWf-eg-1Lc">
+                                <rect key="frame" x="138" y="227" width="138" height="138"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Connect_logo_w" translatesAutoresizingMaskIntoConstraints="NO" id="iTR-Jz-Vp9">
+                                <rect key="frame" x="137.5" y="740" width="139" height="20"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.46102888227341959" green="0.55639463587722504" blue="0.83850220959595956" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="tintColor" red="0.4610288823" green="0.55639463590000005" blue="0.83850220959999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="iTR-Jz-Vp9" secondAttribute="trailing" constant="137.5" id="2zs-Wd-kzY"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="iTR-Jz-Vp9" secondAttribute="bottom" constant="102" id="It7-nd-pg0"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="SWf-eg-1Lc" secondAttribute="trailing" constant="138" id="KG8-XJ-ne2"/>
+                            <constraint firstItem="SWf-eg-1Lc" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="183" id="UN8-Xb-lNh"/>
+                            <constraint firstItem="iTR-Jz-Vp9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="137.5" id="gbz-Hh-O1a"/>
+                            <constraint firstItem="SWf-eg-1Lc" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="jHd-c6-9q0"/>
+                            <constraint firstItem="iTR-Jz-Vp9" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="oqA-Lk-mbT"/>
+                            <constraint firstItem="SWf-eg-1Lc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="138" id="ylF-9D-OJy"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Connect_logo_w" width="139" height="20"/>
+        <image name="img_splash" width="138" height="138"/>
+    </resources>
+</document>

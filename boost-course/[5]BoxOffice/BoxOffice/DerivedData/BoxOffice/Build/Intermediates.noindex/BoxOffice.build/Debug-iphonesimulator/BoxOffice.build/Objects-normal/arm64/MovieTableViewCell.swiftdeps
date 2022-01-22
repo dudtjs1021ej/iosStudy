@@ -1,0 +1,493 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MovieTableViewCell"
+provides-nominal:
+- "9BoxOffice18MovieTableViewCellC"
+provides-member:
+- ["9BoxOffice18MovieTableViewCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "gradeImageView"
+- "movieId"
+- "movieTitleLabel"
+- "openingDateLabel"
+- "posterImageView"
+- "reservationGradeLabel"
+- "reservationRatingLabel"
+- "setSelected"
+- "userRatingLabel"
+depends-top-level:
+- "Bool"
+- "MovieTableViewCell"
+- "String"
+- "UIImageView"
+- "UILabel"
+- "UITableViewCell"
+depends-member:
+- ["SK", ""]
+- ["So15CALayerDelegateP", "Bool"]
+- ["So15CALayerDelegateP", "String"]
+- ["So15CALayerDelegateP", "UIImageView"]
+- ["So15CALayerDelegateP", "UILabel"]
+- ["So15CALayerDelegateP", ""]
+- ["So15CALayerDelegateP", "awakeFromNib"]
+- ["So15CALayerDelegateP", "gradeImageView"]
+- ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", "movieId"]
+- ["So15CALayerDelegateP", "movieTitleLabel"]
+- ["So15CALayerDelegateP", "openingDateLabel"]
+- ["So15CALayerDelegateP", "posterImageView"]
+- ["So15CALayerDelegateP", "reservationGradeLabel"]
+- ["So15CALayerDelegateP", "reservationRatingLabel"]
+- ["So15CALayerDelegateP", "setSelected"]
+- ["So15CALayerDelegateP", "userRatingLabel"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "setSelected"]
+- ["Sl", ""]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "setSelected"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "setSelected"]
+- ["SQ", ""]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "setSelected"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", ""]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "setSelected"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["9BoxOffice18MovieTableViewCellC", "Bool"]
+- ["9BoxOffice18MovieTableViewCellC", "String"]
+- ["9BoxOffice18MovieTableViewCellC", "UIImageView"]
+- ["9BoxOffice18MovieTableViewCellC", "UILabel"]
+- ["9BoxOffice18MovieTableViewCellC", ""]
+- ["9BoxOffice18MovieTableViewCellC", "awakeFromNib"]
+- ["9BoxOffice18MovieTableViewCellC", "deinit"]
+- ["9BoxOffice18MovieTableViewCellC", "gradeImageView"]
+- ["9BoxOffice18MovieTableViewCellC", "init"]
+- ["9BoxOffice18MovieTableViewCellC", "movieId"]
+- ["9BoxOffice18MovieTableViewCellC", "movieTitleLabel"]
+- ["9BoxOffice18MovieTableViewCellC", "openingDateLabel"]
+- ["9BoxOffice18MovieTableViewCellC", "posterImageView"]
+- ["9BoxOffice18MovieTableViewCellC", "reservationGradeLabel"]
+- ["9BoxOffice18MovieTableViewCellC", "reservationRatingLabel"]
+- ["9BoxOffice18MovieTableViewCellC", "setSelected"]
+- ["9BoxOffice18MovieTableViewCellC", "userRatingLabel"]
+- ["So8NSCodingP", "Bool"]
+- ["So8NSCodingP", "String"]
+- ["So8NSCodingP", "UIImageView"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "awakeFromNib"]
+- ["So8NSCodingP", "gradeImageView"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "movieId"]
+- ["So8NSCodingP", "movieTitleLabel"]
+- ["So8NSCodingP", "openingDateLabel"]
+- ["So8NSCodingP", "posterImageView"]
+- ["So8NSCodingP", "reservationGradeLabel"]
+- ["So8NSCodingP", "reservationRatingLabel"]
+- ["So8NSCodingP", "setSelected"]
+- ["So8NSCodingP", "userRatingLabel"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "gradeImageView"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "movieId"]
+- ["So8NSObjectC", "movieTitleLabel"]
+- ["So8NSObjectC", "openingDateLabel"]
+- ["So8NSObjectC", "posterImageView"]
+- ["So8NSObjectC", "reservationGradeLabel"]
+- ["So8NSObjectC", "reservationRatingLabel"]
+- ["So8NSObjectC", "setSelected"]
+- ["So8NSObjectC", "userRatingLabel"]
+- ["So8NSObjectP", "Bool"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "UIImageView"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "awakeFromNib"]
+- ["So8NSObjectP", "gradeImageView"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "movieId"]
+- ["So8NSObjectP", "movieTitleLabel"]
+- ["So8NSObjectP", "openingDateLabel"]
+- ["So8NSObjectP", "posterImageView"]
+- ["So8NSObjectP", "reservationGradeLabel"]
+- ["So8NSObjectP", "reservationRatingLabel"]
+- ["So8NSObjectP", "setSelected"]
+- ["So8NSObjectP", "userRatingLabel"]
+- ["ST", ""]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- ["So29UIAccessibilityIdentificationP", "Bool"]
+- ["So29UIAccessibilityIdentificationP", "String"]
+- ["So29UIAccessibilityIdentificationP", "UIImageView"]
+- ["So29UIAccessibilityIdentificationP", "UILabel"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- ["So29UIAccessibilityIdentificationP", "gradeImageView"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", "movieId"]
+- ["So29UIAccessibilityIdentificationP", "movieTitleLabel"]
+- ["So29UIAccessibilityIdentificationP", "openingDateLabel"]
+- ["So29UIAccessibilityIdentificationP", "posterImageView"]
+- ["So29UIAccessibilityIdentificationP", "reservationGradeLabel"]
+- ["So29UIAccessibilityIdentificationP", "reservationRatingLabel"]
+- ["So29UIAccessibilityIdentificationP", "setSelected"]
+- ["So29UIAccessibilityIdentificationP", "userRatingLabel"]
+- ["So12UIAppearanceP", "Bool"]
+- ["So12UIAppearanceP", "String"]
+- ["So12UIAppearanceP", "UIImageView"]
+- ["So12UIAppearanceP", "UILabel"]
+- ["So12UIAppearanceP", ""]
+- ["So12UIAppearanceP", "awakeFromNib"]
+- ["So12UIAppearanceP", "gradeImageView"]
+- ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", "movieId"]
+- ["So12UIAppearanceP", "movieTitleLabel"]
+- ["So12UIAppearanceP", "openingDateLabel"]
+- ["So12UIAppearanceP", "posterImageView"]
+- ["So12UIAppearanceP", "reservationGradeLabel"]
+- ["So12UIAppearanceP", "reservationRatingLabel"]
+- ["So12UIAppearanceP", "setSelected"]
+- ["So12UIAppearanceP", "userRatingLabel"]
+- ["So21UIAppearanceContainerP", "Bool"]
+- ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "UIImageView"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "awakeFromNib"]
+- ["So21UIAppearanceContainerP", "gradeImageView"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "movieId"]
+- ["So21UIAppearanceContainerP", "movieTitleLabel"]
+- ["So21UIAppearanceContainerP", "openingDateLabel"]
+- ["So21UIAppearanceContainerP", "posterImageView"]
+- ["So21UIAppearanceContainerP", "reservationGradeLabel"]
+- ["So21UIAppearanceContainerP", "reservationRatingLabel"]
+- ["So21UIAppearanceContainerP", "setSelected"]
+- ["So21UIAppearanceContainerP", "userRatingLabel"]
+- ["So17UICoordinateSpaceP", "Bool"]
+- ["So17UICoordinateSpaceP", "String"]
+- ["So17UICoordinateSpaceP", "UIImageView"]
+- ["So17UICoordinateSpaceP", "UILabel"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So17UICoordinateSpaceP", "awakeFromNib"]
+- ["So17UICoordinateSpaceP", "gradeImageView"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", "movieId"]
+- ["So17UICoordinateSpaceP", "movieTitleLabel"]
+- ["So17UICoordinateSpaceP", "openingDateLabel"]
+- ["So17UICoordinateSpaceP", "posterImageView"]
+- ["So17UICoordinateSpaceP", "reservationGradeLabel"]
+- ["So17UICoordinateSpaceP", "reservationRatingLabel"]
+- ["So17UICoordinateSpaceP", "setSelected"]
+- ["So17UICoordinateSpaceP", "userRatingLabel"]
+- ["So13UIDynamicItemP", "Bool"]
+- ["So13UIDynamicItemP", "String"]
+- ["So13UIDynamicItemP", "UIImageView"]
+- ["So13UIDynamicItemP", "UILabel"]
+- ["So13UIDynamicItemP", ""]
+- ["So13UIDynamicItemP", "awakeFromNib"]
+- ["So13UIDynamicItemP", "gradeImageView"]
+- ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", "movieId"]
+- ["So13UIDynamicItemP", "movieTitleLabel"]
+- ["So13UIDynamicItemP", "openingDateLabel"]
+- ["So13UIDynamicItemP", "posterImageView"]
+- ["So13UIDynamicItemP", "reservationGradeLabel"]
+- ["So13UIDynamicItemP", "reservationRatingLabel"]
+- ["So13UIDynamicItemP", "setSelected"]
+- ["So13UIDynamicItemP", "userRatingLabel"]
+- ["So18UIFocusEnvironmentP", "Bool"]
+- ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", "UIImageView"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- ["So18UIFocusEnvironmentP", "gradeImageView"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "movieId"]
+- ["So18UIFocusEnvironmentP", "movieTitleLabel"]
+- ["So18UIFocusEnvironmentP", "openingDateLabel"]
+- ["So18UIFocusEnvironmentP", "posterImageView"]
+- ["So18UIFocusEnvironmentP", "reservationGradeLabel"]
+- ["So18UIFocusEnvironmentP", "reservationRatingLabel"]
+- ["So18UIFocusEnvironmentP", "setSelected"]
+- ["So18UIFocusEnvironmentP", "userRatingLabel"]
+- ["So11UIFocusItemP", "Bool"]
+- ["So11UIFocusItemP", "String"]
+- ["So11UIFocusItemP", "UIImageView"]
+- ["So11UIFocusItemP", "UILabel"]
+- ["So11UIFocusItemP", ""]
+- ["So11UIFocusItemP", "awakeFromNib"]
+- ["So11UIFocusItemP", "gradeImageView"]
+- ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", "movieId"]
+- ["So11UIFocusItemP", "movieTitleLabel"]
+- ["So11UIFocusItemP", "openingDateLabel"]
+- ["So11UIFocusItemP", "posterImageView"]
+- ["So11UIFocusItemP", "reservationGradeLabel"]
+- ["So11UIFocusItemP", "reservationRatingLabel"]
+- ["So11UIFocusItemP", "setSelected"]
+- ["So11UIFocusItemP", "userRatingLabel"]
+- ["So20UIFocusItemContainerP", "Bool"]
+- ["So20UIFocusItemContainerP", "String"]
+- ["So20UIFocusItemContainerP", "UIImageView"]
+- ["So20UIFocusItemContainerP", "UILabel"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "awakeFromNib"]
+- ["So20UIFocusItemContainerP", "gradeImageView"]
+- ["So20UIFocusItemContainerP", "init"]
+- ["So20UIFocusItemContainerP", "movieId"]
+- ["So20UIFocusItemContainerP", "movieTitleLabel"]
+- ["So20UIFocusItemContainerP", "openingDateLabel"]
+- ["So20UIFocusItemContainerP", "posterImageView"]
+- ["So20UIFocusItemContainerP", "reservationGradeLabel"]
+- ["So20UIFocusItemContainerP", "reservationRatingLabel"]
+- ["So20UIFocusItemContainerP", "setSelected"]
+- ["So20UIFocusItemContainerP", "userRatingLabel"]
+- ["So27UIGestureRecognizerDelegateP", "Bool"]
+- ["So27UIGestureRecognizerDelegateP", "String"]
+- ["So27UIGestureRecognizerDelegateP", "UIImageView"]
+- ["So27UIGestureRecognizerDelegateP", "UILabel"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- ["So27UIGestureRecognizerDelegateP", "awakeFromNib"]
+- ["So27UIGestureRecognizerDelegateP", "gradeImageView"]
+- ["So27UIGestureRecognizerDelegateP", "init"]
+- ["So27UIGestureRecognizerDelegateP", "movieId"]
+- ["So27UIGestureRecognizerDelegateP", "movieTitleLabel"]
+- ["So27UIGestureRecognizerDelegateP", "openingDateLabel"]
+- ["So27UIGestureRecognizerDelegateP", "posterImageView"]
+- ["So27UIGestureRecognizerDelegateP", "reservationGradeLabel"]
+- ["So27UIGestureRecognizerDelegateP", "reservationRatingLabel"]
+- ["So27UIGestureRecognizerDelegateP", "setSelected"]
+- ["So27UIGestureRecognizerDelegateP", "userRatingLabel"]
+- ["So24UILargeContentViewerItemP", "Bool"]
+- ["So24UILargeContentViewerItemP", "String"]
+- ["So24UILargeContentViewerItemP", "UIImageView"]
+- ["So24UILargeContentViewerItemP", "UILabel"]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So24UILargeContentViewerItemP", "awakeFromNib"]
+- ["So24UILargeContentViewerItemP", "gradeImageView"]
+- ["So24UILargeContentViewerItemP", "init"]
+- ["So24UILargeContentViewerItemP", "movieId"]
+- ["So24UILargeContentViewerItemP", "movieTitleLabel"]
+- ["So24UILargeContentViewerItemP", "openingDateLabel"]
+- ["So24UILargeContentViewerItemP", "posterImageView"]
+- ["So24UILargeContentViewerItemP", "reservationGradeLabel"]
+- ["So24UILargeContentViewerItemP", "reservationRatingLabel"]
+- ["So24UILargeContentViewerItemP", "setSelected"]
+- ["So24UILargeContentViewerItemP", "userRatingLabel"]
+- ["So30UIPasteConfigurationSupportingP", "Bool"]
+- ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", "UIImageView"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- ["So30UIPasteConfigurationSupportingP", "gradeImageView"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "movieId"]
+- ["So30UIPasteConfigurationSupportingP", "movieTitleLabel"]
+- ["So30UIPasteConfigurationSupportingP", "openingDateLabel"]
+- ["So30UIPasteConfigurationSupportingP", "posterImageView"]
+- ["So30UIPasteConfigurationSupportingP", "reservationGradeLabel"]
+- ["So30UIPasteConfigurationSupportingP", "reservationRatingLabel"]
+- ["So30UIPasteConfigurationSupportingP", "setSelected"]
+- ["So30UIPasteConfigurationSupportingP", "userRatingLabel"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "gradeImageView"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "movieId"]
+- ["So11UIResponderC", "movieTitleLabel"]
+- ["So11UIResponderC", "openingDateLabel"]
+- ["So11UIResponderC", "posterImageView"]
+- ["So11UIResponderC", "reservationGradeLabel"]
+- ["So11UIResponderC", "reservationRatingLabel"]
+- ["So11UIResponderC", "setSelected"]
+- ["So11UIResponderC", "userRatingLabel"]
+- ["So30UIResponderStandardEditActionsP", "Bool"]
+- ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", "UIImageView"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- ["So30UIResponderStandardEditActionsP", "gradeImageView"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "movieId"]
+- ["So30UIResponderStandardEditActionsP", "movieTitleLabel"]
+- ["So30UIResponderStandardEditActionsP", "openingDateLabel"]
+- ["So30UIResponderStandardEditActionsP", "posterImageView"]
+- ["So30UIResponderStandardEditActionsP", "reservationGradeLabel"]
+- ["So30UIResponderStandardEditActionsP", "reservationRatingLabel"]
+- ["So30UIResponderStandardEditActionsP", "setSelected"]
+- ["So30UIResponderStandardEditActionsP", "userRatingLabel"]
+- ["So15UITableViewCellC", "Bool"]
+- ["So15UITableViewCellC", "String"]
+- ["So15UITableViewCellC", "UIImageView"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "awakeFromNib"]
+- ["So15UITableViewCellC", "gradeImageView"]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "movieId"]
+- ["So15UITableViewCellC", "movieTitleLabel"]
+- ["So15UITableViewCellC", "openingDateLabel"]
+- ["So15UITableViewCellC", "posterImageView"]
+- ["So15UITableViewCellC", "reservationGradeLabel"]
+- ["So15UITableViewCellC", "reservationRatingLabel"]
+- ["So15UITableViewCellC", "setSelected"]
+- ["So15UITableViewCellC", "userRatingLabel"]
+- ["So18UITraitEnvironmentP", "Bool"]
+- ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "UIImageView"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "awakeFromNib"]
+- ["So18UITraitEnvironmentP", "gradeImageView"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "movieId"]
+- ["So18UITraitEnvironmentP", "movieTitleLabel"]
+- ["So18UITraitEnvironmentP", "openingDateLabel"]
+- ["So18UITraitEnvironmentP", "posterImageView"]
+- ["So18UITraitEnvironmentP", "reservationGradeLabel"]
+- ["So18UITraitEnvironmentP", "reservationRatingLabel"]
+- ["So18UITraitEnvironmentP", "setSelected"]
+- ["So18UITraitEnvironmentP", "userRatingLabel"]
+- ["So23UIUserActivityRestoringP", "Bool"]
+- ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", "UIImageView"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- ["So23UIUserActivityRestoringP", "gradeImageView"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "movieId"]
+- ["So23UIUserActivityRestoringP", "movieTitleLabel"]
+- ["So23UIUserActivityRestoringP", "openingDateLabel"]
+- ["So23UIUserActivityRestoringP", "posterImageView"]
+- ["So23UIUserActivityRestoringP", "reservationGradeLabel"]
+- ["So23UIUserActivityRestoringP", "reservationRatingLabel"]
+- ["So23UIUserActivityRestoringP", "setSelected"]
+- ["So23UIUserActivityRestoringP", "userRatingLabel"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", "UIImageView"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "gradeImageView"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "movieId"]
+- ["So6UIViewC", "movieTitleLabel"]
+- ["So6UIViewC", "openingDateLabel"]
+- ["So6UIViewC", "posterImageView"]
+- ["So6UIViewC", "reservationGradeLabel"]
+- ["So6UIViewC", "reservationRatingLabel"]
+- ["So6UIViewC", "setSelected"]
+- ["So6UIViewC", "userRatingLabel"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setSelected"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "awakeFromNib"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setSelected"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setSelected"]
+depends-nominal:
+- "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "9BoxOffice18MovieTableViewCellC"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "ST"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d59aa210ff13a8950b7cc5689fb73884"

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1CD59D2C-EC15-417F-BABA-1613BD7CF14F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CD59D2C-EC15-417F-BABA-1613BD7CF14F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BoxOffice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BoxOffice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BoxOffice</string>
+			<key>timeStartedRecording</key>
+			<real>655131954.10807502</real>
+			<key>timeStoppedRecording</key>
+			<real>655131955.09741902</real>
+			<key>title</key>
+			<string>Build BoxOffice</string>
+			<key>uniqueIdentifier</key>
+			<string>1CD59D2C-EC15-417F-BABA-1613BD7CF14F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

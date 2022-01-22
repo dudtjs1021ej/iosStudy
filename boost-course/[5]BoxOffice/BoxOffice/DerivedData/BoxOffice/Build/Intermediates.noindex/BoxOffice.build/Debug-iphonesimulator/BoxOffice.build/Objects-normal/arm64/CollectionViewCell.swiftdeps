@@ -1,0 +1,362 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CollectionViewCell"
+provides-nominal:
+- "9BoxOffice18CollectionViewCellC"
+provides-member:
+- ["9BoxOffice18CollectionViewCellC", ""]
+provides-dynamic-lookup:
+- "dateLabel"
+- "gradeImageView"
+- "movieId"
+- "movieTitleLabel"
+- "posterImageView"
+- "secondLabel"
+depends-top-level:
+- "CollectionViewCell"
+- "String"
+- "UICollectionViewCell"
+- "UIImageView"
+- "UILabel"
+depends-member:
+- ["SK", ""]
+- ["So15CALayerDelegateP", "String"]
+- ["So15CALayerDelegateP", "UIImageView"]
+- ["So15CALayerDelegateP", "UILabel"]
+- ["So15CALayerDelegateP", ""]
+- ["So15CALayerDelegateP", "dateLabel"]
+- ["So15CALayerDelegateP", "gradeImageView"]
+- ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", "movieId"]
+- ["So15CALayerDelegateP", "movieTitleLabel"]
+- ["So15CALayerDelegateP", "posterImageView"]
+- ["So15CALayerDelegateP", "secondLabel"]
+- ["s7CVarArgP", ""]
+- ["Sl", ""]
+- ["9BoxOffice18CollectionViewCellC", "String"]
+- ["9BoxOffice18CollectionViewCellC", "UIImageView"]
+- ["9BoxOffice18CollectionViewCellC", "UILabel"]
+- ["9BoxOffice18CollectionViewCellC", ""]
+- ["9BoxOffice18CollectionViewCellC", "dateLabel"]
+- ["9BoxOffice18CollectionViewCellC", "deinit"]
+- ["9BoxOffice18CollectionViewCellC", "gradeImageView"]
+- ["9BoxOffice18CollectionViewCellC", "init"]
+- ["9BoxOffice18CollectionViewCellC", "movieId"]
+- ["9BoxOffice18CollectionViewCellC", "movieTitleLabel"]
+- ["9BoxOffice18CollectionViewCellC", "posterImageView"]
+- ["9BoxOffice18CollectionViewCellC", "secondLabel"]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", ""]
+- ["SQ", ""]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", ""]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "String"]
+- ["So8NSCodingP", "UIImageView"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "dateLabel"]
+- ["So8NSCodingP", "gradeImageView"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "movieId"]
+- ["So8NSCodingP", "movieTitleLabel"]
+- ["So8NSCodingP", "posterImageView"]
+- ["So8NSCodingP", "secondLabel"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "dateLabel"]
+- ["So8NSObjectC", "gradeImageView"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "movieId"]
+- ["So8NSObjectC", "movieTitleLabel"]
+- ["So8NSObjectC", "posterImageView"]
+- ["So8NSObjectC", "secondLabel"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "UIImageView"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "dateLabel"]
+- ["So8NSObjectP", "gradeImageView"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "movieId"]
+- ["So8NSObjectP", "movieTitleLabel"]
+- ["So8NSObjectP", "posterImageView"]
+- ["So8NSObjectP", "secondLabel"]
+- ["ST", ""]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- ["So29UIAccessibilityIdentificationP", "String"]
+- ["So29UIAccessibilityIdentificationP", "UIImageView"]
+- ["So29UIAccessibilityIdentificationP", "UILabel"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So29UIAccessibilityIdentificationP", "dateLabel"]
+- ["So29UIAccessibilityIdentificationP", "gradeImageView"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", "movieId"]
+- ["So29UIAccessibilityIdentificationP", "movieTitleLabel"]
+- ["So29UIAccessibilityIdentificationP", "posterImageView"]
+- ["So29UIAccessibilityIdentificationP", "secondLabel"]
+- ["So12UIAppearanceP", "String"]
+- ["So12UIAppearanceP", "UIImageView"]
+- ["So12UIAppearanceP", "UILabel"]
+- ["So12UIAppearanceP", ""]
+- ["So12UIAppearanceP", "dateLabel"]
+- ["So12UIAppearanceP", "gradeImageView"]
+- ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", "movieId"]
+- ["So12UIAppearanceP", "movieTitleLabel"]
+- ["So12UIAppearanceP", "posterImageView"]
+- ["So12UIAppearanceP", "secondLabel"]
+- ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "UIImageView"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "dateLabel"]
+- ["So21UIAppearanceContainerP", "gradeImageView"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "movieId"]
+- ["So21UIAppearanceContainerP", "movieTitleLabel"]
+- ["So21UIAppearanceContainerP", "posterImageView"]
+- ["So21UIAppearanceContainerP", "secondLabel"]
+- ["So24UICollectionReusableViewC", "String"]
+- ["So24UICollectionReusableViewC", "UIImageView"]
+- ["So24UICollectionReusableViewC", "UILabel"]
+- ["So24UICollectionReusableViewC", ""]
+- ["So24UICollectionReusableViewC", "dateLabel"]
+- ["So24UICollectionReusableViewC", "gradeImageView"]
+- ["So24UICollectionReusableViewC", "init"]
+- ["So24UICollectionReusableViewC", "movieId"]
+- ["So24UICollectionReusableViewC", "movieTitleLabel"]
+- ["So24UICollectionReusableViewC", "posterImageView"]
+- ["So24UICollectionReusableViewC", "secondLabel"]
+- ["So20UICollectionViewCellC", "String"]
+- ["So20UICollectionViewCellC", "UIImageView"]
+- ["So20UICollectionViewCellC", "UILabel"]
+- ["So20UICollectionViewCellC", ""]
+- ["So20UICollectionViewCellC", "dateLabel"]
+- ["So20UICollectionViewCellC", "gradeImageView"]
+- ["So20UICollectionViewCellC", "init"]
+- ["So20UICollectionViewCellC", "movieId"]
+- ["So20UICollectionViewCellC", "movieTitleLabel"]
+- ["So20UICollectionViewCellC", "posterImageView"]
+- ["So20UICollectionViewCellC", "secondLabel"]
+- ["So17UICoordinateSpaceP", "String"]
+- ["So17UICoordinateSpaceP", "UIImageView"]
+- ["So17UICoordinateSpaceP", "UILabel"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So17UICoordinateSpaceP", "dateLabel"]
+- ["So17UICoordinateSpaceP", "gradeImageView"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", "movieId"]
+- ["So17UICoordinateSpaceP", "movieTitleLabel"]
+- ["So17UICoordinateSpaceP", "posterImageView"]
+- ["So17UICoordinateSpaceP", "secondLabel"]
+- ["So13UIDynamicItemP", "String"]
+- ["So13UIDynamicItemP", "UIImageView"]
+- ["So13UIDynamicItemP", "UILabel"]
+- ["So13UIDynamicItemP", ""]
+- ["So13UIDynamicItemP", "dateLabel"]
+- ["So13UIDynamicItemP", "gradeImageView"]
+- ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", "movieId"]
+- ["So13UIDynamicItemP", "movieTitleLabel"]
+- ["So13UIDynamicItemP", "posterImageView"]
+- ["So13UIDynamicItemP", "secondLabel"]
+- ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", "UIImageView"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "dateLabel"]
+- ["So18UIFocusEnvironmentP", "gradeImageView"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "movieId"]
+- ["So18UIFocusEnvironmentP", "movieTitleLabel"]
+- ["So18UIFocusEnvironmentP", "posterImageView"]
+- ["So18UIFocusEnvironmentP", "secondLabel"]
+- ["So11UIFocusItemP", "String"]
+- ["So11UIFocusItemP", "UIImageView"]
+- ["So11UIFocusItemP", "UILabel"]
+- ["So11UIFocusItemP", ""]
+- ["So11UIFocusItemP", "dateLabel"]
+- ["So11UIFocusItemP", "gradeImageView"]
+- ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", "movieId"]
+- ["So11UIFocusItemP", "movieTitleLabel"]
+- ["So11UIFocusItemP", "posterImageView"]
+- ["So11UIFocusItemP", "secondLabel"]
+- ["So20UIFocusItemContainerP", "String"]
+- ["So20UIFocusItemContainerP", "UIImageView"]
+- ["So20UIFocusItemContainerP", "UILabel"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "dateLabel"]
+- ["So20UIFocusItemContainerP", "gradeImageView"]
+- ["So20UIFocusItemContainerP", "init"]
+- ["So20UIFocusItemContainerP", "movieId"]
+- ["So20UIFocusItemContainerP", "movieTitleLabel"]
+- ["So20UIFocusItemContainerP", "posterImageView"]
+- ["So20UIFocusItemContainerP", "secondLabel"]
+- ["So24UILargeContentViewerItemP", "String"]
+- ["So24UILargeContentViewerItemP", "UIImageView"]
+- ["So24UILargeContentViewerItemP", "UILabel"]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So24UILargeContentViewerItemP", "dateLabel"]
+- ["So24UILargeContentViewerItemP", "gradeImageView"]
+- ["So24UILargeContentViewerItemP", "init"]
+- ["So24UILargeContentViewerItemP", "movieId"]
+- ["So24UILargeContentViewerItemP", "movieTitleLabel"]
+- ["So24UILargeContentViewerItemP", "posterImageView"]
+- ["So24UILargeContentViewerItemP", "secondLabel"]
+- ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", "UIImageView"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "dateLabel"]
+- ["So30UIPasteConfigurationSupportingP", "gradeImageView"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "movieId"]
+- ["So30UIPasteConfigurationSupportingP", "movieTitleLabel"]
+- ["So30UIPasteConfigurationSupportingP", "posterImageView"]
+- ["So30UIPasteConfigurationSupportingP", "secondLabel"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "dateLabel"]
+- ["So11UIResponderC", "gradeImageView"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "movieId"]
+- ["So11UIResponderC", "movieTitleLabel"]
+- ["So11UIResponderC", "posterImageView"]
+- ["So11UIResponderC", "secondLabel"]
+- ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", "UIImageView"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "dateLabel"]
+- ["So30UIResponderStandardEditActionsP", "gradeImageView"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "movieId"]
+- ["So30UIResponderStandardEditActionsP", "movieTitleLabel"]
+- ["So30UIResponderStandardEditActionsP", "posterImageView"]
+- ["So30UIResponderStandardEditActionsP", "secondLabel"]
+- ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "UIImageView"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "dateLabel"]
+- ["So18UITraitEnvironmentP", "gradeImageView"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "movieId"]
+- ["So18UITraitEnvironmentP", "movieTitleLabel"]
+- ["So18UITraitEnvironmentP", "posterImageView"]
+- ["So18UITraitEnvironmentP", "secondLabel"]
+- ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", "UIImageView"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "dateLabel"]
+- ["So23UIUserActivityRestoringP", "gradeImageView"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "movieId"]
+- ["So23UIUserActivityRestoringP", "movieTitleLabel"]
+- ["So23UIUserActivityRestoringP", "posterImageView"]
+- ["So23UIUserActivityRestoringP", "secondLabel"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", "UIImageView"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "dateLabel"]
+- ["So6UIViewC", "gradeImageView"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "movieId"]
+- ["So6UIViewC", "movieTitleLabel"]
+- ["So6UIViewC", "posterImageView"]
+- ["So6UIViewC", "secondLabel"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+depends-nominal:
+- "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "9BoxOffice18CollectionViewCellC"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "ST"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "35ac290113e40dcd8c793889b3a4264d"

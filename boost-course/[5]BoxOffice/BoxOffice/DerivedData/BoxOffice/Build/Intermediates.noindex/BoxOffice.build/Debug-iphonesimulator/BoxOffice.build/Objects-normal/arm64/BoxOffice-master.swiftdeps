@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "8cb18002d641635678351f62e86f820e"
+build_time: [1633660374, 440680000]
+inputs:
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Controller/TableViewViewController.swift": [1633433567, 333228380]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Model/Request.swift": [1633004258, 92765880]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Model/Movies.swift": [1633004258, 73207064]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Controller/CollectionViewViewController.swift": [1633432126, 745292502]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/AppDelegate.swift": [1633433352, 800598867]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Controller/CommentViewController.swift": [1633431295, 551301245]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Model/MovieDetail.swift": [1632987988, 800363741]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Model/Comment.swift": [1633427247, 496026592]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/View/TabelViewCell/TitleTableViewCell.swift": [1632985678, 836233631]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Model/Comments.swift": [1633367126, 668981183]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/Controller/MovieDetailViewController.swift": [1633441267, 856255968]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/View/TabelViewCell/MovieTableViewCell.swift": [1633431295, 618516441]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/View/TabelViewCell/MovieInfoTableViewCell.swift": [1633431295, 565551113]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/View/TabelViewCell/DirectorTableViewCell.swift": [1633431295, 583891212]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/View/CollectionViewCell/CollectionViewCell.swift": [1633431295, 596695686]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/View/TabelViewCell/SynopsisTableViewCell.swift": [1633431295, 639543374]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/SceneDelegate.swift": [1632482659, 900519558]
+  "/Users/im-yeongseon/workspace/boost-course/[5]BoxOffice/youngsun/BoxOffice/BoxOffice/View/TabelViewCell/CommentsTableViewCell.swift": [1633431295, 560611438]
