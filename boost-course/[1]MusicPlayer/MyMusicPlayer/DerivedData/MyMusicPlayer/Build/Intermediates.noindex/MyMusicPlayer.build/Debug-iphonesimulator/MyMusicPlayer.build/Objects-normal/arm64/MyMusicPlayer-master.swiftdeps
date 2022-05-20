@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "91ace2af3dcbd817888201d3c117c403"
-build_time: [1630044541, 901007000]
-inputs:
-  "/Users/im-yeongseon/workspace/boost-course/[1]MusicPlayer/youngsun/MyMusicPlayer/MyMusicPlayer/ViewController.swift": [1630044541, 805600893]
-  "/Users/im-yeongseon/workspace/boost-course/[1]MusicPlayer/youngsun/MyMusicPlayer/MyMusicPlayer/AppDelegate.swift": [1511854536, 0]
